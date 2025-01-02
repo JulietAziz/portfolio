@@ -1,3 +1,3 @@
-# portfolio
 # Juliet Abdul-Aziz
-Projects 
+# portfolio
+
